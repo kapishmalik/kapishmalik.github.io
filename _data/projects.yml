@@ -1,0 +1,28 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# 
+- project: KIRKE
+  role: Primary Developer
+  duration: July, 2016 &mdash; May, 2017
+  description: Kirke is a fully automatic tool to re-engineer web applications, developed using server-side scripting languages, into mobile apps. The tool takes source code of the web application along with its test suite as input and produces corresponding cross-platform mobile apps. <br/><b>Tech Stack- CakePHP, J2EE, Swagger, Phonegap, Apache Tomcat</b>
+#
+- project: Graph Algorithm for LBNVD
+  role: Primary Developer
+  duration: January, 2017 &mdash; May, 2017
+  description: Developed scalable algorithm based on Local Re-adjustment approaches for Load Balanced Network Voronoi Diagram. This algorithm finds its application in the area of urban planning, e.g. defining the zones of operation of schools or police stations based on their capacities.<br> <b>Tech Stack - Java</b>
+
+- project: Teacher Assistor
+  role: Primary Developer
+  duration: January, 2016 &mdash; April, 2016
+  description: Developed an android-web application that facilitates a common platform for instructor-TA-student interaction. It streamlines the task assignment to TA and provides performance analysis based on student/instructor feedback. <br><b> Tech Stack - Java, Android SDK, Spring Boot, HTML5, JavaScript, mongoDB, Apache Tomcat </b>
+
+- project: Smart IoT Doorbell
+  role: Primary Developer
+  duration: July, 2016 &mdash; November, 2016
+  description: Developed a smart doorbell along with android application which sends a photograph of the person standing on the door and allows communication via audio messages between the house owner and the person. The app also tries to predict the person on the basis of their image and time of ringing the bell. <br/><b>Tech Stack - Node.js, Raspberry pi, AWS IoT, AWS ML, Android SDK</b>
+
+- project: Find My Doc - HealthApp
+  role: Primary Developer
+  duration: July, 2015 &mdash; November, 2015
+  description: Developed an E-appointment android application where user can sign up either as a doctor, where he/she manages clinic details and accept or reject the appointments or as a patient, where he/she can search for a particular type of doctor and book an appointment. Patient can view appointment status (accepted/rejected) and can also see queue status on the day of appointment. <br/><b>Tech Stack -Java, Android SDK, PHP, MySQL</b>
